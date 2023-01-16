@@ -1,4 +1,4 @@
-baseURL = 'http://matthewsigmond.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Matthew Sigmond's Website"
 theme = 'mainroad'
@@ -15,6 +15,9 @@ theme = 'mainroad'
 
 [Params.sidebar]
     widgets = ["search", "social"]
+    home = "right"
+    list = "right"
+    single = "right"
 
 [Params.widgets.social]
 twitter = "matthew28845"
