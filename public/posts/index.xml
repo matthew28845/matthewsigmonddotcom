@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matthew Sigmond&#39;s Website</title>
+    <link>http://matthewsigmond.com/posts/</link>
+    <description>Recent content in Posts on Matthew Sigmond&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 16:53:49 -0600</lastBuildDate><atom:link href="http://matthewsigmond.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://matthewsigmond.com/posts/testing/</link>
+      <pubDate>Mon, 16 Jan 2023 16:53:49 -0600</pubDate>
+      
+      <guid>http://matthewsigmond.com/posts/testing/</guid>
+      <description>Welcome to my website! This is just a test for now. Thanks</description>
+    </item>
+    
+  </channel>
+</rss>
