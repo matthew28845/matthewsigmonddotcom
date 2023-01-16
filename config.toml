@@ -2,3 +2,20 @@ baseURL = 'http://matthewsigmond.com/'
 languageCode = 'en-us'
 title = "Matthew Sigmond's Website"
 theme = 'mainroad'
+
+[Author]
+    name = "Matthew Sigmond"
+
+[Params]
+    description = "Matthew Sigmond's personal website"
+    copyright = "Matthew Sigmond"
+    
+[Params.style.vars]
+    highlightColor = "#FF5349"
+
+[Params.sidebar]
+    widgets = ["search", "social"]
+
+[Params.widgets.social]
+twitter = "matthew28845"
+github = "matthew28845"
