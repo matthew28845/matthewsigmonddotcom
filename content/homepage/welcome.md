@@ -5,3 +5,5 @@ draft: false
 ---
 
 Welcome to my website. Here, you will find links to some of my work, and some information about me.
+
+<a href="https://mozilla.org/firefox"><img src="getfirefox.png"></a>
