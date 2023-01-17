@@ -1,6 +1,6 @@
 ---
 title: "Wallpapers"
-draft: true
+draft: false
 menu: main
 ---
 
