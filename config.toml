@@ -9,6 +9,7 @@ theme = 'mainroad'
 [Params]
     description = "Matthew Sigmond's personal website"
     copyright = "Matthew Sigmond"
+    mainSections = ['homepage']
     
 [Params.style.vars]
     highlightColor = "#FF5349"
@@ -22,3 +23,6 @@ theme = 'mainroad'
 [Params.widgets.social]
 twitter = "matthew28845"
 github = "matthew28845"
+
+[markup.goldmark.renderer]
+ unsafe = true
