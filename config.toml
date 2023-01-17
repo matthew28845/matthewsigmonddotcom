@@ -22,8 +22,8 @@ theme = 'mainroad'
     single = "right"
 
 [Params.widgets.social]
-twitter = "matthew28845"
-github = "matthew28845"
+    twitter = "matthew28845"
+    github = "matthew28845"
 
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility

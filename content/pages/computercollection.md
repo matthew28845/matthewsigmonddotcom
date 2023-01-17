@@ -1,6 +1,5 @@
 ---
 title: "Computer Collection"
-date: 2023-01-16T18:31:23-06:00
 draft: false
 menu: main
 ---
