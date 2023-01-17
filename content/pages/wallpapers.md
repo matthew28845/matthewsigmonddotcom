@@ -6,9 +6,9 @@ menu: main
 
 <h2>The Ultimate macOS Wallpaper Archive</h2>
 <p>This archive includes every default macOS default wallpaper, in original quality, ripped straight from real Macs. Every wallpaper from Cheetah to Catalina is included. All 3 versions of the default Mojave Desert and Catalina wallpapers are included (day, night, live.)</p>
-<img src="wallpaperarchive.png">
+<img src="2022wparchive.png">
 <br>
-<a href="https://drive.google.com/file/d/1V4qIhCMUCNHmmfjXlF-_U-y6Eq0QeE02/view?usp=share_link" class="btn btn-primary btn-outline">Download The Ultimate OS X Wallpaper Archive</a>
+<a href="https://drive.google.com/file/d/14b0_etnY5_KvUnAC8zcKFqJTRADE4W7q/view?usp=share_link" class="btn btn-primary btn-outline">Download The Ultimate OS X Wallpaper Archive</a>
 <br>
 <br>
 <h2>Dell XPS Windows Vista OEM Wallpapers</h2>
