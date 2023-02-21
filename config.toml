@@ -30,3 +30,7 @@ theme = 'mainroad'
 
 [markup.goldmark.renderer]
  unsafe = true
+
+[Params.logo]
+  image = "img/profilepic2.png"
+  title = "Matthew Sigmond's Website"
