@@ -22,8 +22,19 @@ theme = 'mainroad'
     single = "right"
 
 [Params.widgets.social]
+    instagram = "matthew28845"
     twitter = "matthew28845"
     github = "matthew28845"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://layer8.space/@matthew28845"
+  icon = "mastodon.svg"
+
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://youtube.com/user/matthew28845"
+  icon = "youtube-svgrepo-com.svg"
 
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility
