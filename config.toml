@@ -33,7 +33,7 @@ theme = 'mainroad'
 
 [[Params.widgets.social.custom]]
   title = "Youtube"
-  url = "https://youtube.com/user/matthew28845"
+  url = "https://www.youtube.com/channel/UCFTgZPGCS2gFn7cFWXpu8RA"
   icon = "youtube-svgrepo-com.svg"
 
 [Params.thumbnail]
