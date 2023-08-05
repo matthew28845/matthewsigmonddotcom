@@ -27,11 +27,6 @@ theme = 'mainroad'
     github = "matthew28845"
 
 [[Params.widgets.social.custom]]
-  title = "Mastodon"
-  url = "https://layer8.space/@matthew28845"
-  icon = "mastodon.svg"
-
-[[Params.widgets.social.custom]]
   title = "Youtube"
   url = "https://www.youtube.com/channel/UCFTgZPGCS2gFn7cFWXpu8RA"
   icon = "youtube-svgrepo-com.svg"
