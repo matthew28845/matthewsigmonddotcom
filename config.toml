@@ -26,11 +26,6 @@ theme = 'mainroad'
     twitter = "matthew28845"
     github = "matthew28845"
 
-[[Params.widgets.social.custom]]
-  title = "Youtube"
-  url = "https://www.youtube.com/channel/UCFTgZPGCS2gFn7cFWXpu8RA"
-  icon = "youtube-svgrepo-com.svg"
-
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility
 
