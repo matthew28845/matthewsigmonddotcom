@@ -13,7 +13,7 @@ theme = 'mainroad'
     post_meta = ["author", "date", "categories", "translations"] # Order of post meta information    
     
 [Params.style.vars]
-    highlightColor = "#FF5349"
+    highlightColor = "#FF4F00"
 
 [Params.sidebar]
     widgets = ["search", "social"]
@@ -33,5 +33,4 @@ theme = 'mainroad'
  unsafe = true
 
 [Params.logo]
-  image = "img/profilepic2.png"
   title = "Matthew Sigmond's Website"
