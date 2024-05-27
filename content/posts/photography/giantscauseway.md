@@ -4,7 +4,7 @@ date: 2019-08-22
 draft: false
 thumbnail: "/posts/photography/photography/IMG_3916_thumb.jpg"
 ---
-<img src="/posts/photography/photography/IMG_3916.jpg">
+<img src="/posts/photography/photography/IMG_3916.jpeg">
 <br>
 <br>
-<a href="/posts/photography/photography/IMG_3916.jpg" class="btn">Download (JPG)</a>
+<a href="/posts/photography/photography/IMG_3916.jpeg" class="btn">Download (JPG)</a>
