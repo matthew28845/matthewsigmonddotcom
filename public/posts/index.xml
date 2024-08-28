@@ -2,19 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matthew Sigmond&#39;s Website</title>
-    <link>http://matthewsigmond.com/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Matthew Sigmond&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jan 2023 16:53:49 -0600</lastBuildDate><atom:link href="http://matthewsigmond.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 22:33:05 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>http://matthewsigmond.com/posts/testing/</link>
-      <pubDate>Mon, 16 Jan 2023 16:53:49 -0600</pubDate>
-      
-      <guid>http://matthewsigmond.com/posts/testing/</guid>
-      <description>Welcome to my website! This is just a test for now. Thanks</description>
+      <title>Sun Blade 150 Setup and </title>
+      <link>//localhost:1313/posts/blog/blade150install/</link>
+      <pubDate>Tue, 27 Aug 2024 22:33:05 -0500</pubDate>
+      <guid>//localhost:1313/posts/blog/blade150install/</guid>
+      <description>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off.</description>
     </item>
-    
+    <item>
+      <title>Billybrowser</title>
+      <link>//localhost:1313/posts/software/billybrowser/</link>
+      <pubDate>Tue, 17 Jan 2023 14:19:23 -0600</pubDate>
+      <guid>//localhost:1313/posts/software/billybrowser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bexitor</title>
+      <link>//localhost:1313/posts/software/bexitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/software/bexitor/</guid>
+      <description>Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project, and I would consider it &#34;completed&#34; currently. New versions, however, are released semi-regularly. Bexitor has .</description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>//localhost:1313/posts/software/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/software/software/</guid>
+      <description> Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&#xA;More About Bexitor (Archived) BillyBrowser is a Billy Mays themed web browser for Android. For more information, screensots, and downloads, visit BillyBrowser&#39;s website.&#xA;More About BillyBrowser</description>
+    </item>
   </channel>
 </rss>

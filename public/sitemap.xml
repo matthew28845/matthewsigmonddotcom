@@ -2,17 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://matthewsigmond.com/</loc>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-08-27T22:33:05-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/blog/blade150install/</loc>
+    <lastmod>2024-08-27T22:33:05-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/spaceneedle/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/software/billybrowser/</loc>
+    <lastmod>2023-01-17T14:19:23-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/</loc>
+    <lastmod>2023-01-16T17:51:58-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-01-16T16:53:49-06:00</lastmod>
   </url><url>
-    <loc>http://matthewsigmond.com/posts/</loc>
-    <lastmod>2023-01-16T16:53:49-06:00</lastmod>
+    <loc>//localhost:1313/posts/photography/splitrock/</loc>
+    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://matthewsigmond.com/posts/testing/</loc>
-    <lastmod>2023-01-16T16:53:49-06:00</lastmod>
+    <loc>//localhost:1313/posts/photography/sedona/</loc>
+    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://matthewsigmond.com/categories/</loc>
+    <loc>//localhost:1313/posts/photography/lutsen/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://matthewsigmond.com/tags/</loc>
+    <loc>//localhost:1313/posts/photography/campsite/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/carver/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/lutsen2/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/magney/</loc>
+    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/lakeharriet/</loc>
+    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/giantscauseway/</loc>
+    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/henrietta/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/duluth/</loc>
+    <lastmod>2017-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/photography/bluefin/</loc>
+    <lastmod>2016-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/software/bexitor/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/computercollection/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/files/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/software/software/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/wallpapers/</loc>
   </url>
 </urlset>

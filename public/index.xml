@@ -1,20 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matthew Sigmond&#39;s Website</title>
-    <link>http://matthewsigmond.com/</link>
-    <description>Recent content on Matthew Sigmond&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Welcome! on Matthew Sigmond&#39;s Website</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Welcome! on Matthew Sigmond&#39;s Website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jan 2023 16:53:49 -0600</lastBuildDate><atom:link href="http://matthewsigmond.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 22:33:05 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>http://matthewsigmond.com/posts/testing/</link>
-      <pubDate>Mon, 16 Jan 2023 16:53:49 -0600</pubDate>
-      
-      <guid>http://matthewsigmond.com/posts/testing/</guid>
-      <description>Welcome to my website! This is just a test for now. Thanks</description>
+      <title>Sun Blade 150 Setup and OS Install</title>
+      <link>//localhost:1313/posts/blog/blade150install/</link>
+      <pubDate>Tue, 27 Aug 2024 22:33:05 -0500</pubDate>
+      <guid>//localhost:1313/posts/blog/blade150install/</guid>
+      <description>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off.</description>
     </item>
-    
+    <item>
+      <title>Space Needle, Seattle, Washington</title>
+      <link>//localhost:1313/posts/photography/spaceneedle/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/spaceneedle/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Billybrowser</title>
+      <link>//localhost:1313/posts/software/billybrowser/</link>
+      <pubDate>Tue, 17 Jan 2023 14:19:23 -0600</pubDate>
+      <guid>//localhost:1313/posts/software/billybrowser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Split Rock Lighthouse, Silver Bay, Minnesota</title>
+      <link>//localhost:1313/posts/photography/splitrock/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/splitrock/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Bell Rock, Sedona, Arizona</title>
+      <link>//localhost:1313/posts/photography/sedona/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/sedona/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Lutsen Resort, Lutsen, Minnesota</title>
+      <link>//localhost:1313/posts/photography/lutsen/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/lutsen/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Chippewa National Forest, Minnesota</title>
+      <link>//localhost:1313/posts/photography/campsite/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/campsite/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Carver Park Reserve, Waconia, Minnesota</title>
+      <link>//localhost:1313/posts/photography/carver/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/carver/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Lutsen Resort, Lutsen, Minnesota</title>
+      <link>//localhost:1313/posts/photography/lutsen2/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/lutsen2/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Judge Magney State Park, Grand Marais, Minnesota</title>
+      <link>//localhost:1313/posts/photography/magney/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/magney/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Lake Harriet, Minneapolis, Minnesota</title>
+      <link>//localhost:1313/posts/photography/lakeharriet/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/lakeharriet/</guid>
+      <description> Download (JPG) Download (RAW)</description>
+    </item>
+    <item>
+      <title>Giant&#39;s Causeway, Northern Ireland</title>
+      <link>//localhost:1313/posts/photography/giantscauseway/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/giantscauseway/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Henrietta, Minnesota</title>
+      <link>//localhost:1313/posts/photography/henrietta/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/henrietta/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Duluth, Minnesota</title>
+      <link>//localhost:1313/posts/photography/duluth/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/duluth/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Bluefin Bay, Tofte, Minnesota</title>
+      <link>//localhost:1313/posts/photography/bluefin/</link>
+      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/bluefin/</guid>
+      <description> Download (JPG)</description>
+    </item>
+    <item>
+      <title>Bexitor</title>
+      <link>//localhost:1313/posts/software/bexitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/software/bexitor/</guid>
+      <description>Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project, and I would consider it &#34;completed&#34; currently. New versions, however, are released semi-regularly. Bexitor has .</description>
+    </item>
+    <item>
+      <title>Computer Collection</title>
+      <link>//localhost:1313/pages/computercollection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/computercollection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Files</title>
+      <link>//localhost:1313/pages/files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/files/</guid>
+      <description>Dell Axim X5 Windows Mobile 2003 Upgrade This will upgrade your Dell Axim X5 PDA to Windows Mobile 2003. It can also back up your current software version. I have not been able to find this anywhere else.&#xA;Download the Dell Axim X5 Windows Mobile 2003 Upgrade HP iPAQ HX2000 Series Windows Mobile 6.5 ROM This is Spiaatie&#39;s Windows Mobile 6.5.3 ROM for the HP iPAQ HX2000 series. It works just fine on my HX2795b.</description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>//localhost:1313/posts/software/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/software/software/</guid>
+      <description> Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&#xA;More About Bexitor (Archived) BillyBrowser is a Billy Mays themed web browser for Android. For more information, screensots, and downloads, visit BillyBrowser&#39;s website.&#xA;More About BillyBrowser</description>
+    </item>
+    <item>
+      <title>Wallpapers</title>
+      <link>//localhost:1313/pages/wallpapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/wallpapers/</guid>
+      <description>The Ultimate macOS Wallpaper Archive This archive includes every default macOS default wallpaper, in original quality, ripped straight from real Macs. Every wallpaper from Cheetah to Catalina is included. All 3 versions of the default Mojave Desert and Catalina wallpapers are included (day, night, live.)&#xA;Download The Ultimate OS X Wallpaper Archive Dell XPS Windows Vista OEM Wallpapers These are all of the default desktop wallpapers included with a Dell XPS computer with Windows Vista, including the Microsoft default ones and some Dell/XPS specific ones.</description>
+    </item>
   </channel>
 </rss>
