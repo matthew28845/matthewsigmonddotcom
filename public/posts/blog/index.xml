@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Matthew Sigmond&#39;s Website</title>
+    <link>//localhost:1313/posts/blog/</link>
+    <description>Recent content in Blog on Matthew Sigmond&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 22:33:05 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Blade 150 Setup and OS Install</title>
+      <link>//localhost:1313/posts/blog/blade150install/</link>
+      <pubDate>Tue, 27 Aug 2024 22:33:05 -0500</pubDate>
+      <guid>//localhost:1313/posts/blog/blade150install/</guid>
+      <description>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off.</description>
+    </item>
+  </channel>
+</rss>

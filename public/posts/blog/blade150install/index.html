@@ -35,6 +35,13 @@
 		<span class="menu__btn-title" tabindex="-1">Menu</span>
 	</button>
 	<ul class="menu__list">
+		<li class="menu__item menu__item--active">
+			<a class="menu__link" href="/posts/blog/">
+				
+				<span class="menu__text">Blog</span>
+				
+			</a>
+		</li>
 		<li class="menu__item">
 			<a class="menu__link" href="/pages/computercollection/">
 				
@@ -89,14 +96,38 @@
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2024-08-27T22:33:05-05:00">August 27, 2024</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<p>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.</p>
-<p><img src="/content/posts/blog/images/blade150/Picture_4.png" alt="Console output"></p>
+			<table>
+<thead>
+<tr>
+<th><img src="/posts/blog/images/blade150/IMG_0776.jpeg" alt="Machine front"></th>
+<th><img src="/posts/blog/images/blade150/IMG_0777.jpeg" alt="Machine rear"></th>
+</tr>
+</thead>
+</table>
+<p><img src="/posts/blog/images/blade150/IMG_0782.jpeg" alt="Machine inside"></p>
+<p>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.</p>
+<p><img src="/posts/blog/images/blade150/Picture_4.png" alt="Console output"></p>
 <p>The machine was still unable to see the keyboard, however. I tried plugging four different keyboards into all four USB ports, and still had this error. After a little more messing around, I learned that these Suns have trouble recognizing keyboards with USB hubs, and just having an incompatible keyboard plugged in will stop a compatible one from working. I eventually found a keyboard that did work, a simple Logitech K120.</p>
-<p>With that figured out, I went to install an operating system. My first thought was to try OpenSolaris, a community continuation of Solaris 9, which was what would have come with this computer new in 2002. I went ahead and downloaded the latest release, and then burned “osol-0906-ai-sparc.iso” to a CD, not reading the filename too carefully. When I put this CD in the drive and attempted to boot it, I was greeted with an error basically saying it could not find a partition to boot from. After doing a little research, I learned that the “ai” denotes “automated installer,” meaning the image is not designed to be bootable, rather installed over the network from another OpenSolaris server. This reminds me of scissors that come in blister packs that you need scissors to open. So I abandoned this idea for now, and decided to just install regular Solaris. I was shocked to see that Oracle still provides downloads for the last released version of Solaris 10 (from 2013.) I went ahead and downloaded that and burned it to a DVD.
-(As a side note, these square LCD Dell monitors are excellent for using with retro computers, for a few reasons. They tend to have both DVI and VGA, which gives you a great range of compatibility, they have soundbars that attach right to the bottom and are powered by the monitor’s passthrough, and they support sync-on-green, which means they will work with a cheap 13W3 to VGA adapter for older Unix workstations. This particular one is a model P170S, but there are a ton of other models of a similar vintage that will work just as well.)</p>
+<p><img src="/posts/blog/images/blade150/IMG_0756.jpeg" alt="The workstation, with keyboard"></p>
+<p>With that figured out, I went to install an operating system. My first thought was to try OpenSolaris, a community continuation of Solaris 9, the version that would have come with this computer new in 2003. I went ahead and downloaded the latest release, and then burned “osol-0906-ai-sparc.iso” to a CD, not reading the filename too carefully. When I put this CD in the drive and attempted to boot it, I was greeted with an error basically saying it could not find a partition to boot from. After doing a little research, I learned that the “ai” denotes “automated installer,” meaning the image is not designed to be bootable, rather installed over the network from another OpenSolaris server. This reminds me of scissors that come in blister packs that you need scissors to open. So I abandoned this idea for now, and decided to just install regular Solaris. I was shocked to see that Oracle still provides downloads for the last released version of Solaris 10 (from 2013.) I went ahead and downloaded that and burned it to a DVD.</p>
+<p>(As a side note, these square LCD Dell monitors are excellent for using with retro computers, for a few reasons. They tend to have both DVI and VGA, which gives you a great range of compatibility, they have soundbars that attach right to the bottom and are powered by the monitor’s passthrough, and they support sync-on-green, which means they will work with a cheap 13W3 to VGA adapter for older Unix workstations. This particular one is a model P170S, but there are a ton of other models of a similar vintage that will work just as well.)</p>
+<p><img src="/posts/blog/images/blade150/IMG_0758.jpeg" alt="CD booting"></p>
 <p>Finally, progress! I waited a while for it to load everything into RAM, after which a warning appeared stating that the graphical install required 768MB of RAM, while I only had 512MB. I figured this did not bode well for how the OS would actually run on such little RAM, so I decided to try to get more installed once again. It was at this point I realized why my RAM upgrade didn’t work in the first place – the PC133 RAM installed from factory was ECC. This type of RAM is designed for servers and workstations and can correct for memory corruption. Mixing and matching with non-ECC wouldn’t work. To get around this, I tried running the system with just two non-ECC sticks, but that led to the same “RED State Exception.” I resolved to get more ECC RAM later, and put it back together with the original 512MB stick. At this time, I also replaced the coin cell battery on the motherboard, as I had been getting invalid NVRAM errors, likely due to a dead battery resulting in the settings being wiped.</p>
-<p>After getting it booted again, I started the install. There were a ton of pages to go through, and eventually after starting the install I found myself stuck on the partitioning stage. I figured this was because I was using ZFS as a filesystem, and maybe there was some incompatibility with this relatively old machine, so I started over with UFS. And it worked! I left the room partway through the install, and came back to this screen, seemingly indicating it had restarted and was now trying to boot from the network:</p>
-<p>Upon rebooting once again, and entering “boot disk” at the Open Firmware prompt to start up from the hard drive, it began to start up. After waiting patiently, I logged into the root account. Success! Here are a few programs running. Of course, I will continue to get this more set up, as well as try some other software on it, but at this point I&rsquo;m happy to have it working!</p>
+<p><img src="/posts/blog/images/blade150/IMG_0781.jpeg" alt="RAM"></p>
+<p>After getting it booted again, I started the install. There were a ton of pages to go through, and eventually after getting all the way through the setup it got stuck on the partitioning stage, unable to create the partitions. I waited for about half an hour but it was totally frozen. I figured this was because I was using ZFS as a filesystem, and maybe there was some incompatibility with this relatively old machine, so I shut it down and started over with UFS. And it worked!</p>
+<p><img src="/posts/blog/images/blade150/IMG_0768.jpeg" alt="Copying files"></p>
+<p>I left the room partway through the install and came back to this screen, seemingly indicating it had restarted and was now trying to boot from the network:</p>
+<p><img src="/posts/blog/images/blade150/IMG_0770.jpeg" alt="Netboot"></p>
+<p>Upon rebooting once again, and entering “boot disk” at the Open Firmware prompt to start up from the hard drive, it began to start up. After waiting patiently, I logged into the root account.</p>
+<p><img src="/posts/blog/images/blade150/IMG_0772.jpeg" alt="Login screen"></p>
+<p>Success!</p>
+<p><img src="/posts/blog/images/blade150/IMG_0773.jpeg" alt="Desktop"></p>
+<p>Here are a few programs running, namely Firefox and GIMP, under the default Gnome desktop environment:</p>
+<p><img src="/posts/blog/images/blade150/IMG_0774.jpeg" alt="Programs"></p>
+<p>Curiously, CDE (a desktop environment which was often used in the &rsquo;90s) is still included, although it does display a warning upon startup that it will soon be deprecated:</p>
+<p><img src="/posts/blog/images/blade150/IMG_0775.jpeg" alt="CDE"></p>
+<p>I&rsquo;ll obviously do a little more in-depth setup of this machine later, as well as try some more commercial software that was avaiable for Solaris, but at this point I&rsquo;m glad to have it up and running.</p>
+<p>Thanks for reading this all the way through! This is my first post on this blog, but I&rsquo;m excited to post more about my technology endeavors!</p>
 
 		</div>
 	</article>
@@ -123,7 +154,7 @@
 			</a>
 		</div>
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Instagram" rel="noopener noreferrer" href="https://www.instagram.com/matthew28845" target="_blank">
+			<a class="widget-social__link widget__link btn" title="Instagram" rel="noopener noreferrer" href="https://www.instagram.com/matthewsigmond" target="_blank">
 				<svg class="widget-social__link-icon icon icon-instagram" width="24" height="24" viewBox="0 0 256 256"><circle cx="193" cy="59" r="15"/><path fill-rule="evenodd" d="M101 0h54c41 0 58.4 3.9 74.5 17C256.2 37.5 256 74.8 256 97.7v60c0 26.7 0 60.4-26.5 81.4-16 13.4-33.5 16.9-74.5 16.9h-54c-41 0-57.5-3.5-74.5-16.9C1 218.9.5 186.3.1 160.5L0 155V97.7c0-23-.2-60.2 26.5-80.7C45 2 60 0 101 0zm4.9 23h44.3c45.8 0 58.3 3.5 70.3 17.5 11.8 13.2 12 30.1 12.5 62.9V156c.2 20.8.3 45.8-12.5 59.5-12 14-24.5 17.5-70.3 17.5h-44.3c-45.9 0-57.3-3.5-70.4-17.5-12.2-13-12.3-36.5-12.4-56.7v-55.6c.4-32.6.7-49.6 12.4-62.7C48 26.5 60 23 105.9 23zm19.6 144.5a42 42 0 1 0 0-84 42 42 0 0 0 0 84zm0 22.5a64.5 64.5 0 1 0 0-129 64.5 64.5 0 0 0 0 129z"/></svg>
 				<span>Instagram</span>
 			</a>
