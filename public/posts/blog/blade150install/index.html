@@ -96,15 +96,7 @@
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2024-08-27T22:33:05-05:00">August 27, 2024</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<table>
-<thead>
-<tr>
-<th><img src="/posts/blog/images/blade150/IMG_0776.jpeg" alt="Machine front"></th>
-<th><img src="/posts/blog/images/blade150/IMG_0777.jpeg" alt="Machine rear"></th>
-</tr>
-</thead>
-</table>
-<p><img src="/posts/blog/images/blade150/IMG_0782.jpeg" alt="Machine inside"></p>
+			<p><img src="/posts/blog/images/blade150/IMG_0782.jpeg" alt="Machine inside"></p>
 <p>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.</p>
 <p><img src="/posts/blog/images/blade150/Picture_4.png" alt="Console output"></p>
 <p>The machine was still unable to see the keyboard, however. I tried plugging four different keyboards into all four USB ports, and still had this error. After a little more messing around, I learned that these Suns have trouble recognizing keyboards with USB hubs, and just having an incompatible keyboard plugged in will stop a compatible one from working. I eventually found a keyboard that did work, a simple Logitech K120.</p>
@@ -126,7 +118,9 @@
 <p><img src="/posts/blog/images/blade150/IMG_0774.jpeg" alt="Programs"></p>
 <p>Curiously, CDE (a desktop environment which was often used in the &rsquo;90s) is still included, although it does display a warning upon startup that it will soon be deprecated:</p>
 <p><img src="/posts/blog/images/blade150/IMG_0775.jpeg" alt="CDE"></p>
-<p>I&rsquo;ll obviously do a little more in-depth setup of this machine later, as well as try some more commercial software that was avaiable for Solaris, but at this point I&rsquo;m glad to have it up and running.</p>
+<p>I&rsquo;ll obviously do a little more in-depth setup of this machine later, as well as try some more commercial software that was avaiable for Solaris, but at this point I&rsquo;m glad to have it up and running. Here are a few more photos of the workstation, showing off more of its design:
+<img src="/posts/blog/images/blade150/IMG_0776.jpeg" alt="Machine front">
+<img src="/posts/blog/images/blade150/IMG_0777.jpeg" alt="Machine rear"></p>
 <p>Thanks for reading this all the way through! This is my first post on this blog, but I&rsquo;m excited to post more about my technology endeavors!</p>
 
 		</div>

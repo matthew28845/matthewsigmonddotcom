@@ -4,9 +4,6 @@ date: 2024-08-27T22:33:05-05:00
 draft: false
 ---
 
-| ![Machine front](/posts/blog/images/blade150/IMG_0776.jpeg) | ![Machine rear](/posts/blog/images/blade150/IMG_0777.jpeg)     |  
-| ------- | ------------ |
-
 ![Machine inside](/posts/blog/images/blade150/IMG_0782.jpeg)
 
 I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped. 
@@ -62,6 +59,8 @@ Curiously, CDE (a desktop environment which was often used in the '90s) is still
 ![CDE](/posts/blog/images/blade150/IMG_0775.jpeg)
 
 
-I'll obviously do a little more in-depth setup of this machine later, as well as try some more commercial software that was avaiable for Solaris, but at this point I'm glad to have it up and running. 
+I'll obviously do a little more in-depth setup of this machine later, as well as try some more commercial software that was avaiable for Solaris, but at this point I'm glad to have it up and running. Here are a few more photos of the workstation, showing off more of its design:
+![Machine front](/posts/blog/images/blade150/IMG_0776.jpeg)
+![Machine rear](/posts/blog/images/blade150/IMG_0777.jpeg)
 
 Thanks for reading this all the way through! This is my first post on this blog, but I'm excited to post more about my technology endeavors!
