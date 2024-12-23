@@ -13,14 +13,14 @@
       <link>//localhost:1313/posts/software/bexitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/bexitor/</guid>
-      <description>Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project, and I would consider it &#34;completed&#34; currently. New versions, however, are released semi-regularly. Bexitor has .</description>
+      <description>&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project, and I would consider it &#34;completed&#34; currently. New versions, however, are released semi-regularly. Bexitor has .txt and .rtf support, however it can display any file as long as it&#39;s not a binary file such as .exe files. The Bexitor icons, and some of the program icons, were made by Nick Nakashima. Click the screenshot below for a full-size version. Because Microsoft hasn&#39;t heard of Bexitor yet, you may get some warning about Bexitor being unrecognized. You can ignore this, Bexitor is perfectly safe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software</title>
       <link>//localhost:1313/posts/software/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/software/</guid>
-      <description> Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&#xA;More About Bexitor</description>
+      <description>&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/bexitor&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About Bexitor&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>

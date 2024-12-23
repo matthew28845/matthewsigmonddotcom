@@ -6,6 +6,7 @@ draft: false
 
 ![Machine inside](/posts/blog/images/blade150/IMG_0782.jpeg)
 
+
 I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped. 
 
 ![Console output](/posts/blog/images/blade150/Picture_4.png)

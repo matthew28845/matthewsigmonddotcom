@@ -6,14 +6,21 @@
     <description>Recent content in Blog on Matthew Sigmond&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 22:33:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:45:05 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Period Correct 1999 Red Hat Linux 6.0 Installation</title>
+      <link>//localhost:1313/posts/blog/redhat60/</link>
+      <pubDate>Sun, 22 Dec 2024 21:45:05 -0500</pubDate>
+      <guid>//localhost:1313/posts/blog/redhat60/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/posts/blog/images/redhat60/IMG_1765.JPEG&#34; alt=&#34;ThinkPad shots&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had this IBM ThinkPad 385XD for a few years now. I paid only $30 for it from somebody who was about to take it to a recycler, but had mercifully decided to first post it on Craigslist in case anybody wanted it. It&amp;rsquo;s hard to see in photos, but it&amp;rsquo;s in nearly perfect condition. The only flaw on the machine is a scratch on the lid between the hinge and the status indicator lights, which I added and will regret doing for the rest of my life. I&amp;rsquo;ll put more photos of it at the bottom.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sun Blade 150 Setup and OS Install</title>
       <link>//localhost:1313/posts/blog/blade150install/</link>
       <pubDate>Tue, 27 Aug 2024 22:33:05 -0500</pubDate>
       <guid>//localhost:1313/posts/blog/blade150install/</guid>
-      <description>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/posts/blog/images/blade150/IMG_0782.jpeg&#34; alt=&#34;Machine inside&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
