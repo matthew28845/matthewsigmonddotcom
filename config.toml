@@ -24,14 +24,15 @@ theme = 'mainroad'
 
 [Params.widgets.social]
     instagram = "matthewsigmond"
-    twitter = "matthew28845"
     github = "matthew28845"
+    linkedin = "matthew-sigmond-39158b27b"
 
 [Params.thumbnail]
-  visibility = ["list"] # Control thumbnail visibility
+  visibility = ["list", "post"] # Control thumbnail visibility
 
 [markup.goldmark.renderer]
  unsafe = true
 
 [Params.logo]
   title = "Matthew Sigmond"
+  image = "/posts/photography/images/headshot.png"
