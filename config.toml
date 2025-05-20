@@ -6,10 +6,13 @@ theme = 'mainroad'
 [Site.Params.Author]
     name = "Matt Sigmond"
 
+[Site.Params.baseURL]
+    url = "https://matthewsigmond.com"
+
 [Params]
     description = "Matthew Sigmond's personal website"
     copyright = "Matthew Sigmond"
-    mainSections = ['homepage']
+    mainSections = ["homepage", "blog", "photography", "post"]
     post_meta = ["author", "date", "categories", "translations"] # Order of post meta information    
     sectionPagesMenu = 'main'
     
@@ -17,7 +20,7 @@ theme = 'mainroad'
     highlightColor = "#FF4F00"
 
 [Params.sidebar]
-    widgets = ["search", "social"]
+    widgets = ["search", "social", "recent"]
     home = "right"
     list = "right"
     single = "right"
@@ -31,6 +34,9 @@ theme = 'mainroad'
   title = "Mastodon"
   url = "https://layer8.space/@matthew28845"
   icon = "svg/mastodon-logo-white.svg"
+
+[Params.widgets.recent]
+  cached = true
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
