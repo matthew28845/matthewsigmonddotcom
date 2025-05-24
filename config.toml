@@ -30,11 +30,6 @@ theme = 'mainroad'
     github = "matthew28845"
     linkedin = "matthew-sigmond-39158b27b"
 
-[[Params.widgets.social.custom]]
-  title = "Mastodon"
-  url = "https://layer8.space/@matthew28845"
-  icon = "svg/mastodon-logo-white.svg"
-
 [Params.widgets.recent]
   cached = true
 
