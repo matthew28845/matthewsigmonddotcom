@@ -160,7 +160,14 @@
       <link>//localhost:1313/posts/software/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/software/</guid>
-      <description>&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/bexitor&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About Bexitor&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;specmebanner.png&#34; width=&#34;225px&#34;&gt;&#xA;&lt;p&gt; SpecMe is a system specification viewer for Windows, macOS, and Linux written in Electron. For more information, screenshots, and downloads, visit SpecMe&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/specme&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About SpecMe&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/bexitor&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About Bexitor&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>SpecMe</title>
+      <link>//localhost:1313/posts/software/specme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/software/specme/</guid>
+      <description>&lt;img src=&#34;specmebanner.png&#34; width=50%&gt;&#xA;&lt;p&gt;SpecMe is a free and open-source system specification viewer written in Electron. It will run on Windows, macOS, and Linux. It is currently in a relatively early state, but it is fully functional.&lt;/p&gt;&#xA;&lt;p&gt;SpecMe uses &lt;a href=&#34;https://systeminformation.io/&#34;&gt;systeminformation&lt;/a&gt; by Sebastian Hildebrant to retrieve specs.&lt;/p&gt;&#xA;&lt;h2&gt;Screenshots&lt;/h2&gt;&#xA;&lt;img src=&#34;specme1.png&#34; width=50%&gt;&lt;img src=&#34;specme3.png&#34; width=50%&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/matthew28845/SpecMe&#34; class=&#34;btn&#34;&gt;Download SpecMe Source Code&lt;/a&gt;&#xA;&lt;p&gt;Precompiled builds coming soon!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wallpapers</title>

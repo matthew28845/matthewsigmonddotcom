@@ -3,7 +3,11 @@ title: "Software"
 draft: false
 menu: main
 ---
-
+<img src="specmebanner.png" width="225px">
+<p> SpecMe is a system specification viewer for Windows, macOS, and Linux written in Electron. For more information, screenshots, and downloads, visit SpecMe's website.</p>
+<a href="/posts/software/specme" class="btn btn-primary btn-outline">More About SpecMe</a>
+<br>
+<br>
 <img src="BexitorBanner.png">
 <br>
 <br>
