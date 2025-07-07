@@ -3,7 +3,7 @@ title: "Website History"
 draft: false
 menu: main
 ---
-<h2>Every iteration of this personal website ever</h2>
+<h2>Every iteration of this personal website</h2>
 
 <h2>Website 1 (2013)</h2>
 <p>Written in raw HTML</p>
