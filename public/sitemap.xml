@@ -88,5 +88,7 @@
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/pages/wallpapers/</loc>
+  </url><url>
+    <loc>//localhost:1313/pages/oldsites/</loc>
   </url>
 </urlset>
