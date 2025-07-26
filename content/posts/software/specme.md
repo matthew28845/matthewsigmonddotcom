@@ -9,5 +9,5 @@ draft: false
 <h2>Screenshots</h2>
 <img src="specme1.png" width=50%><img src="specme3.png" width=50%>
 <br>
-<a href="https://github.com/matthew28845/SpecMe" class="btn">Download SpecMe Source Code</a>
-<p>Precompiled builds coming soon!</p>
+<a href="https://github.com/matthew28845/SpecMe/releases" class="btn">Download SpecMe from GitHub</a>
+<a href="https://github.com/matthew28845/SpecMe" class="btn">Download SpecMe source code</a>
