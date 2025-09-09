@@ -20,7 +20,7 @@ theme = 'mainroad'
     highlightColor = "#FF4F00"
 
 [Params.sidebar]
-    widgets = ["search", "social", "recent"]
+    widgets = ["search", "recent", "social", "categories"] # Order of sidebar widgets
     home = "right"
     list = "right"
     single = "right"
@@ -29,6 +29,10 @@ theme = 'mainroad'
     instagram = "matthewsigmond"
     github = "matthew28845"
     linkedin = "matthew-sigmond-39158b27b"
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+
 
 [Params.widgets.recent]
   cached = true
@@ -42,3 +46,16 @@ theme = 'mainroad'
 [Params.logo]
   title = "Matthew Sigmond"
   image = "/posts/photography/images/headshot.png"
+
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
+
+[menus]
+  [[menus.main]]
+    name = 'Résumé'
+    url = 'pages/files/Resume_Sep2025.pdf'
+    weight = 10
