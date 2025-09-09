@@ -57,5 +57,5 @@ theme = 'mainroad'
 [menus]
   [[menus.main]]
     name = 'Résumé'
-    url = 'pages/files/Resume_Sep2025.pdf'
+    url = 'https://matthewsigmond.com/pages/files/Resume_Sep2025.pdf'
     weight = 10
