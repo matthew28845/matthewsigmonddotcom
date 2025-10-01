@@ -5,7 +5,7 @@ draft: false
 ---
 # Welcome!
 
-My name is Matt Sigmond. Welcome to my website. Here, you will find links to some of my work, and some information about me.
+My name is Matt Sigmond. I'm a senior at Carleton College studying Computer Science. Here, you will find links to some of my work, and some information about me.
 
 You may be here to download [SpecMe](https://matthewsigmond.com/posts/software/specme/) or see some of my [photography](https://matthewsigmond.com/posts/photography/). 
 
