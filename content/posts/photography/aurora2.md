@@ -4,7 +4,6 @@ date: 2025-11-14
 draft: false
 thumbnail: "/posts/photography/photography/IMG_6815_thumb.jpg"
 ---
-<img src="/posts/photography/photography/IMG_6815_thumb.jpg">
 <br>
 <br>
 <a href="/posts/photography/photography/IMG_6815_edited.jpg" class="btn">Download (JPG)</a>

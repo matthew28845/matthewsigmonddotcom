@@ -110,9 +110,13 @@
 <div class="meta__item-datetime meta__item">
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2024-08-27T22:33:05-05:00">August 27, 2024</time></div></div>
 		</header>
-		<div class="content post__content clearfix">
-			<p><img src="/posts/blog/images/blade150/IMG_0782.jpeg" alt="Machine inside"></p>
-<p>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.</p>
+		
+	<figure class="post__thumbnail thumbnail">
+		
+		<img class="thumbnail__image" src="/posts/blog/images/blade150/IMG_0782.jpeg" alt="Sun Blade 150 Setup and OS Install">
+		
+	</figure><div class="content post__content clearfix">
+			<p>I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.</p>
 <p><img src="/posts/blog/images/blade150/Picture_4.png" alt="Console output"></p>
 <p>The machine was still unable to see the keyboard, however. I tried plugging four different keyboards into all four USB ports, and still had this error. After a little more messing around, I learned that these Suns have trouble recognizing keyboards with USB hubs, and just having an incompatible keyboard plugged in will stop a compatible one from working. I eventually found a keyboard that did work, a simple Logitech K120.</p>
 <p><img src="/posts/blog/images/blade150/IMG_0756.jpeg" alt="The workstation, with keyboard"></p>

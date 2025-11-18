@@ -4,7 +4,6 @@ date: 2023-07-21
 draft: false
 thumbnail: "/posts/photography/photography/DSC02010_thumb.jpg"
 ---
-<img src="/posts/photography/photography/DSC02010_edited.jpg">
 <br>
 <br>
 <a href="/posts/photography/photography/DSC02010_edited.jpg" class="btn">Download (JPG)</a>

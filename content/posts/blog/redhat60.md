@@ -4,9 +4,8 @@ date: 2024-12-22T21:45:05-05:00
 draft: false
 params:
   author: Matt Sigmond
+thumbnail: "posts/blog/images/redhat60/IMG_1765.JPEG"
 ---
-
-![ThinkPad shots](/posts/blog/images/redhat60/IMG_1765.JPEG)
 
 I've had this IBM ThinkPad 385XD for a few years now. I paid only $30 for it from somebody who was about to take it to a recycler, but had mercifully decided to first post it on Craigslist in case anybody wanted it. It's hard to see in photos, but it's in nearly perfect condition. The only flaw on the machine is a scratch on the lid between the hinge and the status indicator lights, which I added and will regret doing for the rest of my life. I'll put more photos of it at the bottom. For now though, its basic specs are a 233MHz Pentium MMX CPU, 32MB of RAM, a 3.2GB hard drive, and an 800x600 active-matrix LCD display. This ThinkPad would have been a midrange model when it was new, with thinkwiki.org describing the 300 series as ["a low-budget alternative for the 7xx series."](https://www.thinkwiki.org/wiki/Category:Models#ThinkPad_300_series)
 

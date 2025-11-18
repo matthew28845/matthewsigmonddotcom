@@ -4,7 +4,6 @@ date: 2025-03-30
 draft: false
 thumbnail: "/posts/photography/photography/IMG_2949_thumb.png"
 ---
-<img src="/posts/photography/photography/IMG_2949_thumb.png">
 <br>
 <br>
 <a href="https://www.icloud.com/iclouddrive/0e0eYma_fbm_HNyaPyzhLowag#IMG_2949_edited" class="btn">Download (PNG)</a>

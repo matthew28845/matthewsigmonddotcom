@@ -4,7 +4,6 @@ date: 2019-10-05
 draft: false
 thumbnail: "/posts/photography/photography/DSC01295_thumb.jpg"
 ---
-<img src="/posts/photography/photography/DSC01295.JPG">
 <br>
 <br>
 <a href="/posts/photography/photography/DSC01295.JPG" class="btn">Download (JPG)</a>
