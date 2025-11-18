@@ -6,8 +6,22 @@
     <description>Recent content in Welcome! on Matthew Sigmond&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northfield, Minnesota, USA</title>
+      <link>//localhost:1313/posts/photography/aurora/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/aurora/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_6814_thumb.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_6814_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.icloud.com/iclouddrive/0fdH5KxFvrFrdm3whYQjLkeXQ#IMG%5F6814&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Northfield, Minnesota, USA</title>
+      <link>//localhost:1313/posts/photography/aurora2/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/photography/aurora2/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_6815_thumb.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_6815_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.icloud.com/iclouddrive/03d0y7zsP4wVNFxZpvB-Qx1iw#IMG%5F6815&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
+    </item>
     <item>
       <title>Post-Colonial Identity Reflected In in Almaty Restaurants</title>
       <link>//localhost:1313/posts/blog/almatyfood/</link>
@@ -51,67 +65,67 @@
       <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/posts/blog/images/blade150/IMG_0782.jpeg&#34; alt=&#34;Machine inside&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’ve had this Sun Blade 150 workstation in my possession for a few months, having gotten it from a friend who was offloading some tech he no longer used nor wanted. Today, I finally decided to get it set up and fully operational. My first attempt at powering this machine on (shortly after I got it) resulted in the monitor coming on for a couple seconds, displaying an error saying there was no keyboard attached, and then shutting off. I then opened it up, upgraded the RAM, and promptly forgot about it for several months. When I attempted to turn the machine on today, I got nothing out of it. Hooking up to it via serial, I got a “RED State Exception” , which apparently points to a very serious error with the system. After taking it apart and removing all but one stick of RAM, it began to start up and work. I messed around in Open Firmware for a bit, and deduced that while it was recognizing the IDE hard drive that was installed, it was seemingly wiped.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Space Needle, Seattle, Washington</title>
+      <title>Space Needle, Seattle, Washington, USA</title>
       <link>//localhost:1313/posts/photography/spaceneedle/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/spaceneedle/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC02010_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC02010_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_    2105.DNG&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC02010_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC02010_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_2105.DNG&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Split Rock Lighthouse, Silver Bay, Minnesota</title>
+      <title>Split Rock Lighthouse, Silver Bay, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/splitrock/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/splitrock/</guid>
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_2105_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_2105_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_2105.DNG&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Bell Rock, Sedona, Arizona</title>
+      <title>Bell Rock, Sedona, Arizona, USA</title>
       <link>//localhost:1313/posts/photography/sedona/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/sedona/</guid>
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC01595_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01595_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01595.ARW&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Lutsen Resort, Lutsen, Minnesota</title>
+      <title>Lutsen Resort, Lutsen, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/lutsen/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/lutsen/</guid>
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC01497_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01497_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01497.ARW&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Chippewa National Forest, Minnesota</title>
+      <title>Chippewa National Forest, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/campsite/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/campsite/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_9500.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_9500.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_9500.jpeg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_9500.jpeg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Carver Park Reserve, Waconia, Minnesota</title>
+      <title>Carver Park Reserve, Waconia, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/carver/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/carver/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_8854.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_8854.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_8854.jpeg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_8854.jpeg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Lutsen Resort, Lutsen, Minnesota</title>
+      <title>Lutsen Resort, Lutsen, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/lutsen2/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/lutsen2/</guid>
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC01374.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01374.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01374.ARW&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Judge Magney State Park, Grand Marais, Minnesota</title>
+      <title>Judge Magney State Park, Grand Marais, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/magney/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/magney/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_5326.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_5326.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_5326.jpeg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_5326.jpeg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Lake Harriet, Minneapolis, Minnesota</title>
+      <title>Lake Harriet, Minneapolis, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/lakeharriet/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/lakeharriet/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC01295.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01295.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01295.ARW&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/DSC01295.JPG&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01295.JPG&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/DSC01295.ARW&#34; class=&#34;btn&#34;&gt;Download (RAW)&lt;/a&gt;</description>
     </item>
     <item>
       <title>Giant&#39;s Causeway, Northern Ireland</title>
@@ -121,21 +135,21 @@
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_3916.jpeg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_3916.jpeg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Henrietta, Minnesota</title>
+      <title>Henrietta, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/henrietta/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/henrietta/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_2529.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_2529.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/IMG_2529.jpeg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/IMG_2529.jpeg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Duluth, Minnesota</title>
+      <title>Duluth, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/duluth/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/duluth/</guid>
       <description>&lt;img src=&#34;//localhost:1313/posts/photography/photography/2017-06-26 10-17-47_edited.jpg&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/photography/photography/2017-06-26 10-17-47_edited.jpg&#34; class=&#34;btn&#34;&gt;Download (JPG)&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Bluefin Bay, Tofte, Minnesota</title>
+      <title>Bluefin Bay, Tofte, Minnesota, USA</title>
       <link>//localhost:1313/posts/photography/bluefin/</link>
       <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/photography/bluefin/</guid>
@@ -146,7 +160,7 @@
       <link>//localhost:1313/posts/software/bexitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/bexitor/</guid>
-      <description>&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project, and I would consider it &#34;completed&#34; currently. New versions, however, are released semi-regularly. Bexitor has .txt and .rtf support, however it can display any file as long as it&#39;s not a binary file such as .exe files. The Bexitor icons, and some of the program icons, were made by Nick Nakashima. Click the screenshot below for a full-size version. Because Microsoft hasn&#39;t heard of Bexitor yet, you may get some warning about Bexitor being unrecognized. You can ignore this, Bexitor is perfectly safe.&lt;/p&gt;</description>
+      <description>&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a simple, fast, lightweight, free, and open-source text editor for Windows, similar to Notepad, except with more features. It works on Windows XP and up (.net Framework 4.0 or newer is required.) I originally wrote Bexitor to learn Visual Basic, but it&#39;s turned into more of a continued project. I would consider it &#34;completed&#34; currently, since I haven&#39;t released a new version since 2019. Bexitor has .txt and .rtf support, however it can display any file as long as it&#39;s not a binary file such as .exe files. The Bexitor icons, and some of the program icons, were made by Nick Nakashima. Click the screenshots below for full-size versions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer Collection</title>
@@ -167,14 +181,14 @@
       <link>//localhost:1313/posts/software/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/software/</guid>
-      <description>&lt;img src=&#34;specmebanner.png&#34; width=&#34;225px&#34;&gt;&#xA;&lt;p&gt; SpecMe is a system specification viewer for Windows, macOS, and Linux written in Electron. For more information, screenshots, and downloads, visit SpecMe&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/specme&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About SpecMe&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s website.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/bexitor&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About Bexitor&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;specmebanner.png&#34; width=&#34;225px&#34;&gt;&#xA;&lt;p&gt; SpecMe is a system specification viewer for Windows, macOS, and Linux written in Electron. For more information, screenshots, and downloads, visit SpecMe&#39;s page.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/specme&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About SpecMe&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;BexitorBanner.png&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;Bexitor (short for Basic Text Editor) is a text editor for Windows that I wrote to learn Visual Basic. For more information, screenshots, and downloads, visit Bexitor&#39;s page.&lt;/p&gt;&#xA;&lt;a href=&#34;//localhost:1313/posts/software/bexitor&#34; class=&#34;btn btn-primary btn-outline&#34;&gt;More About Bexitor&lt;/a&gt;</description>
     </item>
     <item>
       <title>SpecMe</title>
       <link>//localhost:1313/posts/software/specme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/software/specme/</guid>
-      <description>&lt;img src=&#34;specmebanner.png&#34; width=50%&gt;&#xA;&lt;p&gt;SpecMe is a free and open-source system specification viewer written in Electron. It will run on Windows, macOS, and Linux. SpecMe shows your computer&#39;s specifications such as processsor, memory, storage, graphics, and operating system. It also has dark mode!&lt;/p&gt;&#xA;&lt;p&gt;SpecMe uses &lt;a href=&#34;https://systeminformation.io/&#34;&gt;systeminformation&lt;/a&gt; by Sebastian Hildebrant to retrieve specs, and the &lt;a href=&#34;https://ethanschoonover.com/solarized/&#34;&gt;Solarized&lt;/a&gt; color scheme by Ethan Schoonover.&lt;/p&gt;&#xA;&lt;h2&gt;Screenshots&lt;/h2&gt;&#xA;&lt;a href=&#34;https://matthewsigmond.com/posts/software/specme/specme4.png&#34;&gt;shit&lt;img src=&#34;specme4.png&#34; width=50%&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://matthewsigmond.com/posts/software/specme/specme4.png&#34;&gt;&lt;img src=&#34;specme5.png&#34; width=50%&gt;&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/matthew28845/SpecMe/releases&#34; class=&#34;btn&#34;&gt;Download SpecMe from GitHub&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/matthew28845/SpecMe&#34; class=&#34;btn&#34;&gt;Download SpecMe source code&lt;/a&gt;</description>
+      <description>&lt;img src=&#34;specmebanner.png&#34; width=50%&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;SpecMe is a free and open-source system specification viewer written in Electron. It will run on Windows, macOS, and Linux. SpecMe shows your computer&#39;s specifications such as processsor, memory, storage, graphics, and operating system. It also has dark mode!&lt;/p&gt;&#xA;&lt;p&gt;SpecMe uses &lt;a href=&#34;https://systeminformation.io/&#34;&gt;systeminformation&lt;/a&gt; by Sebastian Hildebrant to retrieve specs, and the &lt;a href=&#34;https://ethanschoonover.com/solarized/&#34;&gt;Solarized&lt;/a&gt; color scheme by Ethan Schoonover.&lt;/p&gt;&#xA;&lt;h2&gt;Screenshots&lt;/h2&gt;&#xA;&lt;a href=&#34;https://matthewsigmond.com/posts/software/specme/specme1.png&#34;&gt;&lt;img src=&#34;specme1.png&#34; width=50%&gt;&lt;/a&gt;&lt;a href=&#34;https://matthewsigmond.com/posts/software/specme/specme2.png&#34;&gt;&lt;img src=&#34;specme2.png&#34; width=50%&gt;&lt;/a&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/matthew28845/SpecMe/releases&#34; class=&#34;btn&#34;&gt;Download SpecMe from GitHub&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/matthew28845/SpecMe&#34; class=&#34;btn&#34;&gt;Download SpecMe source code&lt;/a&gt;</description>
     </item>
     <item>
       <title>Wallpapers</title>

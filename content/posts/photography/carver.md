@@ -1,10 +1,10 @@
 ---
-title: "Carver Park Reserve, Waconia, Minnesota"
+title: "Carver Park Reserve, Waconia, Minnesota, USA"
 date: 2020-04-11
 draft: false
 thumbnail: "/posts/photography/photography/IMG_8854_thumb.jpg"
 ---
-<img src="/posts/photography/photography/IMG_8854.jpg">
+<img src="/posts/photography/photography/IMG_8854.jpeg">
 <br>
 <br>
-<a href="/posts/photography/photography/IMG_8854.jpg" class="btn">Download (JPG)</a>
+<a href="/posts/photography/photography/IMG_8854.jpeg" class="btn">Download (JPG)</a>

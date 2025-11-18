@@ -1,5 +1,5 @@
 ---
-title: "Lutsen Resort, Lutsen, Minnesota"
+title: "Lutsen Resort, Lutsen, Minnesota, USA"
 date: 2020-11-29
 draft: false
 thumbnail: "/posts/photography/photography/DSC01497_thumb.jpg"

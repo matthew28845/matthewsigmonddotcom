@@ -1,5 +1,5 @@
 ---
-title: "Bluefin Bay, Tofte, Minnesota"
+title: "Bluefin Bay, Tofte, Minnesota, USA"
 date: 2016-08-14
 draft: false
 thumbnail: "/posts/photography/photography/20160814_134151_edited.jpg"

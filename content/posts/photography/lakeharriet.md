@@ -1,11 +1,11 @@
 ---
-title: "Lake Harriet, Minneapolis, Minnesota"
+title: "Lake Harriet, Minneapolis, Minnesota, USA"
 date: 2019-10-05
 draft: false
 thumbnail: "/posts/photography/photography/DSC01295_thumb.jpg"
 ---
-<img src="/posts/photography/photography/DSC01295.jpg">
+<img src="/posts/photography/photography/DSC01295.JPG">
 <br>
 <br>
-<a href="/posts/photography/photography/DSC01295.jpg" class="btn">Download (JPG)</a>
+<a href="/posts/photography/photography/DSC01295.JPG" class="btn">Download (JPG)</a>
 <a href="/posts/photography/photography/DSC01295.ARW" class="btn">Download (RAW)</a>

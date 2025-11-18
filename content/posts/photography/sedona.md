@@ -1,5 +1,5 @@
 ---
-title: "Bell Rock, Sedona, Arizona"
+title: "Bell Rock, Sedona, Arizona, USA"
 date: 2021-12-28
 draft: false
 thumbnail: "/posts/photography/photography/DSC01595_thumb.jpg"

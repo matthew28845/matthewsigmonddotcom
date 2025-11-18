@@ -1,5 +1,5 @@
 ---
-title: "Split Rock Lighthouse, Silver Bay, Minnesota"
+title: "Split Rock Lighthouse, Silver Bay, Minnesota, USA"
 date: 2022-07-19
 draft: false
 thumbnail: "/posts/photography/photography/IMG_2105_thumb.jpg"
