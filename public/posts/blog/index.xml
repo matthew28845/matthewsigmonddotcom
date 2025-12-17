@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Matthew Sigmond&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 12:43:58 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toshiba Libretto 50 3D Printed Case and BIOS Restore</title>
+      <link>//localhost:1313/posts/blog/libretto/</link>
+      <pubDate>Tue, 16 Dec 2025 12:43:58 -0600</pubDate>
+      <guid>//localhost:1313/posts/blog/libretto/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been a fan of miniature PCs. The idea of a full-sized, x86 PC that can fit in my pocket is just so cool. One of the most well-known computers in this genre is the Toshiba Libretto, which is a fully functional laptop scaled down to be just a bit bigger than a modern smartphone. The line debuted in 1996, at a time when miniaturizing electronics was expensive, and thus it was a bit of a status symbol. I was on the lookout for one of these for quite a while, but never bought one since prices were just a bit too high ($2-300) for what is essentially a novelty.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Post-Colonial Identity Reflected In in Almaty Restaurants</title>
       <link>//localhost:1313/posts/blog/almatyfood/</link>
