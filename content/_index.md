@@ -9,4 +9,4 @@ My name is Matt Sigmond. I'm a senior at Carleton College studying Computer Scie
 
 You may be here to download [SpecMe](https://matthewsigmond.com/posts/software/specme/) or see some of my [photography](https://matthewsigmond.com/posts/photography/). 
 
-You may also be here to read my [résumé](pages/files/Resume_Sep2025v3.pdf) or my [LinkedIn](https://www.linkedin.com/in/matthewsigmond/).
+You may also be here to read my [résumé](pages/files/Resume_Jan2026.pdf) or my [LinkedIn](https://www.linkedin.com/in/matthewsigmond/).
