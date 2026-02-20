@@ -1,6 +1,6 @@
 ---
-title: "Adventures In Privacy Against Intel ME With A Cheap System76 Laptop"
-date: 2024-08-27T22:33:05-05:00
+title: "Fighting the Intel Management Engine With A Cheap System76 Laptop"
+date: 2025-02-19T18:33:05-05:00
 draft: false
 thumbnail: "/posts/blog/images/galago/galago.jpg"
 ---
