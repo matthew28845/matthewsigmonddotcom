@@ -1,6 +1,6 @@
 ---
 title: "Fighting the Intel Management Engine with a Cheap System76 Laptop"
-date: 2025-02-19T18:33:05-05:00
+date: 2026-02-19T18:33:05-05:00
 draft: false
 thumbnail: "/posts/blog/images/galago/galago.jpg"
 ---
