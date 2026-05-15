@@ -6,8 +6,15 @@
     <description>Recent content in Welcome! on Matthew Sigmond&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 12:43:58 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 18:33:05 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fighting the Intel Management Engine with a Cheap System76 Laptop</title>
+      <link>//localhost:1313/posts/blog/galago/</link>
+      <pubDate>Thu, 19 Feb 2026 18:33:05 -0500</pubDate>
+      <guid>//localhost:1313/posts/blog/galago/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently become more interested in digital privacy in an age of ever-increasing surveillance. I switched my main PC from Windows to Linux in 2024 (after first trying it in 2013 and using it off-and-on since then), and my two main laptops are currently a ThinkPad X1 Extreme with Linux and a 2021 MacBook Pro. While using Linux means you&amp;rsquo;re on a much more secure and private system than Windows, you can always aim to make your system respect your freedom more. I recently learned about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Intel_Management_Engine&#34;&gt;Intel Management Engine&lt;/a&gt;, a device built into all Intel chipsets since 2008 which was originally designed to remotely manage machines in corporate environments. The ME&amp;rsquo;s functionality is mostly undocumented, but what we know is that it runs completely independent of your operating system, can access all of your computer&amp;rsquo;s memory as well as its entire network stack, and it is always active even when the system is &amp;ldquo;powered off.&amp;rdquo; This means that the ME is capable of sending anything in your computer&amp;rsquo;s memory over the network, wherever it wants, without your knowledge &amp;ndash; a massive security risk to say the least!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Toshiba Libretto 50 3D Printed Case and BIOS Restore</title>
       <link>//localhost:1313/posts/blog/libretto/</link>

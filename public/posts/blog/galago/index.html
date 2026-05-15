@@ -3,7 +3,7 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Split Rock Lighthouse, Silver Bay, Minnesota, USA - Matthew Sigmond&#39;s Personal Website</title>
+	<title>Fighting the Intel Management Engine with a Cheap System76 Laptop - Matthew Sigmond&#39;s Personal Website</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -44,7 +44,7 @@
 				
 			</a>
 		</li>
-		<li class="menu__item">
+		<li class="menu__item menu__item--active">
 			<a class="menu__link" href="/posts/blog/">
 				
 				<span class="menu__text">Blog</span>
@@ -65,7 +65,7 @@
 				
 			</a>
 		</li>
-		<li class="menu__item menu__item--active">
+		<li class="menu__item">
 			<a class="menu__link" href="/posts/photography/">
 				
 				<span class="menu__text">Photography</span>
@@ -104,21 +104,24 @@
 <main class="main" role="main">
 	<article class="post">
 		<header class="post__header">
-			<h1 class="post__title">Split Rock Lighthouse, Silver Bay, Minnesota, USA</h1>
+			<h1 class="post__title">Fighting the Intel Management Engine with a Cheap System76 Laptop</h1>
 			<div class="post__meta meta">
 <div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2022-07-19T00:00:00Z">July 19, 2022</time></div></div>
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2026-02-19T18:33:05-05:00">February 19, 2026</time></div></div>
 		</header>
 		
 	<figure class="post__thumbnail thumbnail">
 		
-		<img class="thumbnail__image" src="/posts/photography/photography/IMG_2105_thumb.jpg" alt="Split Rock Lighthouse, Silver Bay, Minnesota, USA">
+		<img class="thumbnail__image" src="/posts/blog/images/galago/galago.jpg" alt="Fighting the Intel Management Engine with a Cheap System76 Laptop">
 		
 	</figure><div class="content post__content clearfix">
-			<br>
-<br>
-<a href="/posts/photography/photography/IMG_2105_edited.jpg" class="btn">Download (JPG)</a>
-<a href="/posts/photography/photography/IMG_2105.DNG" class="btn">Download (RAW)</a>
+			<p>I&rsquo;ve recently become more interested in digital privacy in an age of ever-increasing surveillance. I switched my main PC from Windows to Linux in 2024 (after first trying it in 2013 and using it off-and-on since then), and my two main laptops are currently a ThinkPad X1 Extreme with Linux and a 2021 MacBook Pro. While using Linux means you&rsquo;re on a much more secure and private system than Windows, you can always aim to make your system respect your freedom more. I recently learned about the <a href="https://en.wikipedia.org/wiki/Intel_Management_Engine">Intel Management Engine</a>, a device built into all Intel chipsets since 2008 which was originally designed to remotely manage machines in corporate environments. The ME&rsquo;s functionality is mostly undocumented, but what we know is that it runs completely independent of your operating system, can access all of your computer&rsquo;s memory as well as its entire network stack, and it is always active even when the system is &ldquo;powered off.&rdquo; This means that the ME is capable of sending anything in your computer&rsquo;s memory over the network, wherever it wants, without your knowledge &ndash; a massive security risk to say the least!</p>
+<p>(It&rsquo;s also worth noting that recent AMD processors have an equivalent to the ME called the AMD PSP (Platform Security Processor). The PSP is similarly undocumented, but it does not have a network stack, meaning that it&rsquo;s arguably less of a security risk.)</p>
+<p>Knowing, then, about this security flaw present within all modern Intel processors, I began looking into how to disable it. While the ME cannot be fully disabled due to its role in starting up the CPU, it can be disabled right after the system powers on, blocking its ability to act maliciously. A more recent way of doing this is with the <a href="https://www.bleepingcomputer.com/news/hardware/researchers-find-a-way-to-disable-much-hated-intel-me-component-courtesy-of-the-nsa/">HAP bit</a>, an undocumented killswitch in the firmware that government agencies such as the NSA enable on their Intel machines to bring them up to their security standards. As I found out, the two most practical options to disable/neuter the ME are to either buy a system from the small subset of manufacturers that sell computers with the ME disabled or to modify your computer&rsquo;s firmware (either by manually zeroing out the ME regions with something like <a href="https://github.com/corna/me_cleaner?">me_cleaner</a> or by using a custom firmware such as <a href="https://libreboot.org/">libreboot</a>). One of the manufacturers I regularly saw listed among those that sell computers with ME disabled was <a href="https://system76.com/">System76</a>, who have been selling computers with Linux preinstalled since 2005, and <a href="https://www.notebookcheck.net/System76-to-disable-Intel-Management-Engine-on-its-notebooks.267696.0.html">disabling ME on them since 2017</a>. On a whim, I decided to open up eBay and search for &ldquo;system76,&rdquo; and saw an active listing that was suspiciously cheap: a Galago Pro (galp5) from 2021, with an Intel Core i7-1165G7, 1TB of SSD storage, and 16GB of RAM, listed for only $200. This would have been an absolute steal in a normal economy, but with today&rsquo;s global memory shortage thanks to AI, just the RAM and SSD alone would be worth almost $200 alone. So, I bought it.</p>
+<p><img src="/posts/blog/images/galago/ebaylisting.jpg" alt="Galago Pro eBay listing"></p>
+<p>The computer showed up pretty quickly, and I was pleasantly surprised to discover that it had 32GB of RAM installed instead of the 16GB listed, and the battery had only 15 cycles on it, meaning this machine hardly saw any use. But there was one issue: when I entered the firmware settings, it told me that the Intel ME was enabled. Uh-oh. After a little bit of research, I found out that the laptop was initially sold with the ME enabled because with its CPU generation, <a href="https://www.reddit.com/r/System76/comments/k0g971/comment/gdke4yt/">disabling it would prevent it from properly entering sleep</a>. Thankfully, about a year and a half after release, the galp5 got a firmware update allowing you to disable ME, but per my correspondence with System76 customer support, the issue with sleep mode is a hardware problem that was engineered around on newer models but unable to properly be fixed on mine. With the newest firmware loaded on my machine, I can confirm that with ME disabled it dies pretty quickly in sleep mode. Not a massive issue, but an important one to consider.</p>
+<p>I&rsquo;m really glad to have a modern laptop with this vulnerability patched, and I&rsquo;m overall pretty pleased with the laptop itself. The build quality is decent enough, it has plenty of ports including HDMI, Ethernet, and an SD card slot, and it even has a function key commbo (Fn+F10) that disables the webcam from being visible on the USB bus. Most System76 laptops use <a href="clevo.com.tw">Clevo</a> as an OEM, meaning it is a generic reference design that they can do limited customization to, but I still think it&rsquo;s a really nice machine and their open-source firmware and EC sweeten the deal. I probably wouldn&rsquo;t have paid full retail for it, but for the price I paid I&rsquo;m thrilled. I think it would be really cool if future System76 machines used Framework as an OEM, but that&rsquo;s pretty wishful thinking on my part and I have no idea how tenable that would actually be.</p>
+
 		</div>
 	</article>
 </main>
